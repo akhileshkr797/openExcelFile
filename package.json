@@ -1,0 +1,19 @@
+{
+    "name": "openexcelfile",
+    "version": "1.0.0",
+    "description": "sample to check extension, if .xls/.xlsx then open it new window",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akhileshkr797/openExcelFile.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/akhileshkr797/openExcelFile/issues"
+    },
+    "homepage": "https://github.com/akhileshkr797/openExcelFile#readme"
+}
